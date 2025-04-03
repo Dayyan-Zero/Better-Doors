@@ -1,0 +1,8 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "top": "block/dark_oak_door_top",
+		"top_alt": "block/dark_oak_door_top_hinge",
+		"side": "block/dark_oak_door_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "block/crimson_door_bottom",
+        "bottom_alt": "block/crimson_door_bottom_hinge",
+		"side": "block/crimson_door_side"
+    }
+}
