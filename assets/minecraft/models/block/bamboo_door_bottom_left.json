@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "minecraft:block/bamboo_door_bottom",
+    "bottom_alt": "minecraft:block/bamboo_door_bottom_alt",
+    "side": "minecraft:block/bamboo_door_side"
+  }
+}
