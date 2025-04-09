@@ -1,27 +1,22 @@
-# Better-Doors
+# Better Doors
  
 ![better doors banner](external/better_doors_banner.png)
 
-A Repository for the Better Doors Minecraft Resource pack
-
 ## About
 
-Better Doors is my personal solution for what door should be like in Minecraft. they have a more polished look with non-mirrored textures (meaning light shading is top-left to bottom-right) as they should, and have proper side textures to clarify which side the hinges are on.
-
----
+Better Doors is my personal solution for what doors should be like in Minecraft. They have a more polished look with non-mirrored textures (meaning light shading is top-left to bottom-right) as they should, and have proper side textures to clarify which side the hinges are on.
 
 ## Additional Addon's
 
 - 3D doors Addon **(Out of Date)**
 - Programmer Art Addon **(Out of Date)**
 
----
-
 ## Credits & Acknowledgements 
 
 - `none yet`
 
 ---
+
 ## Contributing
 
 If you'd like to contribute to the development of Better Doors you can do so in two ways:
@@ -35,6 +30,7 @@ I'll then review and filter the suggestions, and if they match with the vision o
 > Same applies for any addons you wish to make. 
 
 ---
+
 ## License and Use
 
 `in the works`
