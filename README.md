@@ -31,7 +31,7 @@ If you'd like to contribute to the development of Better Doors you can do so in 
 
 I'll then review and filter the suggestions, and if they match with the vision of the project, I'll merge them into the pack.
 
-> [!Info]
+> [!NOTE]
 > Same applies for any addons you wish to make. 
 
 ---
