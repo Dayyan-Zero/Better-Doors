@@ -38,10 +38,10 @@ I'll then review and filter the suggestions, and if they match with the vision o
 		<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="external/buttons/button_pmc.png" style="width: 100%;"></a>
 	</div>
 	<div style="width: 32%;"> 
-		<img src="button_modrinth.png" style="width: 100%;">
+		<img src="external/buttons/button_modrinth.png" style="width: 100%;">
 	</div>
 	<div style="width: 32%;"> 
-		<img src="button_curseforge.png" style="width: 100%;">
+		<img src="external/buttons/button_curseforge.png" style="width: 100%;">
 	</div>
 </div>
 
