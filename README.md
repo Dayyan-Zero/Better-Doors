@@ -33,8 +33,7 @@ I'll then review and filter the suggestions, and if they match with the vision o
 
 ## Links
 
-
-<a href="https://www.planetminecraft.com/texture-pack/better-doors/" style="margin-right: 2%;"><img src="external/buttons/button_pmc.png" style="width: 32%; margin-right: 2%;"></a><img src="external/buttons/button_modrinth.png" style="width: 32%; margin-right: 2%;"><img src="external/buttons/button_curseforge.png" style="width: 32%;">
+<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="external/buttons/button_pmc.png" style="width: 32%;"></a><img style="width:2%;"><img src="external/buttons/button_modrinth.png" style="width:32%;margin:2%;"><img style="width:2%;"><img src="external/buttons/button_curseforge.png" style="width: 32%;">
 
 ---
 
