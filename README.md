@@ -33,17 +33,8 @@ I'll then review and filter the suggestions, and if they match with the vision o
 
 ## Links
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding: 0px;"> 
-	<div style="width: 32%;"> 
-		<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="external/buttons/button_pmc.png" style="width: 32%;"></a>
-	</div>
-	<div style="width: 32%;"> 
-		<img src="external/buttons/button_modrinth.png" style="width: 32%;">
-	</div>
-	<div style="width: 32%;"> 
-		<img src="external/buttons/button_curseforge.png" style="width: 32%;">
-	</div>
-</div>
+
+<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="external/buttons/button_pmc.png" style="width: 32%; margin-right: 2px;"></a><img src="external/buttons/button_modrinth.png" style="width: 32%; margin-right: 2px;"><img src="external/buttons/button_curseforge.png" style="width: 32%;">
 
 ---
 
