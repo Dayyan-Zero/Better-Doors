@@ -31,9 +31,25 @@ I'll then review and filter the suggestions, and if they match with the vision o
 
 ---
 
+## Links
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding: 0px;"> 
+	<div style="width: 32%;"> 
+		<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="button_pmc.png" style="width: 100%;"></a>
+	</div>
+	<div style="width: 32%;"> 
+		<img src="button_modrinth.png" style="width: 100%;">
+	</div>
+	<div style="width: 32%;"> 
+		<img src="button_curseforge.png" style="width: 100%;">
+	</div>
+</div>
+
+---
+
 ## License and Use
 
-`in the works`
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 A **lot** of work goes into Resource Packs. 
 Please respect the wishes of the authors, and consult with them before taking any action concerning their work.
