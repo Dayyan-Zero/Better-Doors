@@ -4,7 +4,7 @@
 
 ## About
 
-Better Doors is my personal solution for what doors should be like in Minecraft. They have a more polished look with non-mirrored textures (meaning light shading is top-left to bottom-right) as they should, and have proper side textures to clarify which side the hinges are on.
+**Better Doors** is my personal vision of how doors _should_ look in Minecraft. Remodeled to match the vanilla aesthetic, these doors feature non-mirrored textures—so lighting flows naturally from top-left to bottom-right—and proper side textures that clearly show which side the hinges are on, giving a more realistic and intuitive look. This pack aims to be the visual refinement that our poor Minecraft doors deserve.
 
 ## Additional Addon's
 
@@ -19,21 +19,17 @@ Better Doors is my personal solution for what doors should be like in Minecraft.
 
 ## Contributing
 
-If you'd like to contribute to the development of Better Doors you can do so in two ways:
+If you'd like to contribute to the development of Better Doors, here are some guidelines:
 
-1. If you know what you are doing feel free to create a new issue with your suggested additions, changes, improvements, and/or updates. 
-2. If you are unfamiliar with GitHub, you can upload your suggested contribution on the discord server (in accordance with the guidelines) and It'll be uploaded as an issue on your behalf.
+1. If you are familiar with GitHub, create a new issue, add your suggested additions, changes, improvements, and/or updates, and submit. 
+2. If you are unfamiliar with GitHub, you can upload your suggested contribution on the discord server and it'll be uploaded as an issue on your behalf.
 
-I'll then review and filter the suggestions, and if they match with the vision of the project, I'll merge them into the pack.
+I'll then review and filter suggestions, and if they match with the vision of the project, they'll be added into the project.
 
 > [!NOTE]
-> Same applies for any addons you wish to make. 
-
----
-
-## Links
-
-<a href="https://www.planetminecraft.com/texture-pack/better-doors/"><img src="external/buttons/button_pmc.png" style="width: 32%;"></a><img style="width:2%;"><img src="external/buttons/button_modrinth.png" style="width:32%;margin:2%;"><img style="width:2%;"><img src="external/buttons/button_curseforge.png" style="width: 32%;">
+> For those who know what they are doing, feel free to work in a new branch, and make a merge request to the `dev` branch. 
+> 
+> This would be a great help, especially when it comes to updates and bug fixes!
 
 ---
 
