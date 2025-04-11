@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "minecraft:block/crimson_door_bottom",
+    "bottom_alt": "minecraft:block/crimson_door_bottom_alt",
+    "side": "minecraft:block/crimson_door_side"
+  }
+}

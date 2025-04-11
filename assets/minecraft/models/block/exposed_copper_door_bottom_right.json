@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:block/exposed_copper_door_bottom",
+    "bottom_alt": "minecraft:block/exposed_copper_door_bottom_alt",
+    "side": "minecraft:block/exposed_copper_door_side"
+  }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "top": "block/jungle_door_top",
-        "top_alt": "block/jungle_door_top_hinge",
-		"side": "block/jungle_door_side"
-    }
-}

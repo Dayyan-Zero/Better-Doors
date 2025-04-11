@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "minecraft:block/spruce_door_bottom",
+    "bottom_alt": "minecraft:block/spruce_door_bottom_alt",
+    "side": "minecraft:block/spruce_door_side"
+  }
+
+}
