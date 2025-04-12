@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:block/weathered_copper_door_bottom",
+    "bottom_alt": "minecraft:block/weathered_copper_door_bottom_alt",
+    "side": "minecraft:block/weathered_copper_door_side"
+  }
+}
