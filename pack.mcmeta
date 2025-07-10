@@ -5,7 +5,7 @@
     "supported_formats": {"min_inclusive": 9, "max_inclusive": 100},
     "description":
     [
-      {"text": "Refined doors & hinges", "color": "#FFFFFF"},
+      {"text": "Non-mirrored doors & side texutes", "color": "#FFFFFF"},
       "\n",
       {"text": "By ", "color": "#AAAAAA"},
       {"text": "Insanial", "color": "#FFAA00"}
