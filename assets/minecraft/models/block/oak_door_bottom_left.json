@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/bd_door_bottom_left",
+  "parent": "minecraft:block/door_bottom_left",
   "textures": {
     "bottom": "minecraft:block/oak_door_bottom",
     "bottom_alt": "minecraft:block/oak_door_bottom_alt",
